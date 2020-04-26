@@ -1,5 +1,11 @@
 # RISE-Lab-Container-Installation-Scripts
 
+Script to install the following libraries in RISE Lab Containers
+* mujoco_py
+* deepmind control suite
+* gym-robotics
+
+
 ### Troubleshooting:
 * ERROR: Failed building wheel for mujoco-py
 ```
